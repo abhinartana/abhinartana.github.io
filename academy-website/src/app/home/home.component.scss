@@ -1,0 +1,35 @@
+.main-content {
+    margin-top: 56px;
+    overflow-y: auto;
+}
+
+.doc-header {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    background-color: #e91e63;
+}
+
+.doc-headline {
+    display: flex;
+    align-items: center;
+    font-size: large;
+    color: #fff;
+    font-family: Cinzel;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.doc-main-name {
+    font-family: Cinzel;
+  font-size: 300%;
+  margin: 0;
+  padding: 0;
+}
+
+.doc-cat-name {
+    font-family: Cinzel;
+  font-size: 175%;
+  margin: 0;
+  padding: 0;
+}
